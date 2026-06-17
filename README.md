@@ -122,3 +122,8 @@ The final video is a 10-second tribute consisting of four slides:
 ## Author
 
 Submitted as part of the Junior AI Developer assignment for Sabr Intelligence.
+
+## Sample Output
+
+[Watch the tribute video](https://youtu.be/1_fcXK6oA3E)
+
